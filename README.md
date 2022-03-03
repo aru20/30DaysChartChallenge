@@ -12,3 +12,6 @@ Day 4: Magic/Magical chart
 Radial Bar Chart: A Radial/Circular Bar chart is a bar chart that is plotted on a polar coordinate system, rather than on a Cartesian one.
 There are also some pros and cons of the Radial Bar chart. Radial bar charts are so cool and primarily used for aesthetic reasons. In Radial bar charts the bar length can be misinterpreted, so Cartesian bar charts are always a better choice for comparing values.
 ![RadialBarchart-day4](https://user-images.githubusercontent.com/73730336/156491749-696a9bfe-33d0-42e2-adc5-5c0c1b60caa2.png)
+### Day 5: Slope Chart
+A slope chart is one of the most widely used simple charts. Slope charts are used when our analysis requires a comparison between two data points. Slope Charts is the most intuitive and easy-to-use platform for financial charting.
+![SlopeChart-day5](https://user-images.githubusercontent.com/73730336/156492067-66a2b3c2-01b1-44b0-9f4e-53da598c6a43.png)
