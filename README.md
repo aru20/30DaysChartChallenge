@@ -29,3 +29,19 @@ I use a scatter plot and box plot to represent the data.
 ### Day 10: Path over time chart
 These maps are called flow maps or path maps. Flow maps are great when we want to show where something went over time. For example path of a storm over a time period.
 ![Abstract Chart](https://user-images.githubusercontent.com/73730336/156492685-346b2a7d-e425-41e7-ae2d-1e4958cfc67b.PNG)
+### Day 11:Packed Bubble Chart:
+A packed bubble chart is used to display data in a cluster of circles. Dimensions define the individual bubbles, and measures define the size and color of the individual circles.
+![Car-sales data](https://user-images.githubusercontent.com/73730336/156494981-a8ac2a6d-f459-44cd-bb67-3988e8a225c0.PNG)
+### Day 12: Stripe Chart
+For today’s chart, I tried to recreate Warming Stripes/Climate Stripe by climate scientist Ed Hawkins. Climate stripes visualize how temperatures have changed over the past century. Each vertical
+stripe represents the average temperature in a year, with cooler temperatures shown in blue and warmer temperatures in red.
+![WarmingStripes](https://user-images.githubusercontent.com/73730336/156495055-55534009-ae60-46f2-89a8-20f1bd0a0eb6.PNG)
+### Day 13: Correlation
+The correlation matrix is great for visualizing similarities between items in your dataset. In Tableau, CORR() function is used to calculate Pearson Correlation Coefficient.
+![CorrelationMatrix](https://user-images.githubusercontent.com/73730336/156495151-785cfa5c-1256-4cab-b058-fa22bbb9737c.PNG)
+Day 14: Space
+Space Missions from 1957-2020.
+![Space Missions](https://user-images.githubusercontent.com/73730336/156495244-7b69fad5-c706-4edf-acd9-c02e64b0a2a0.PNG)
+Day 15: Dot-matrix charts
+Dot-matrix charts are useful for visualizing the distribution and frequency of discrete data. They help you understand the scale and proportion. The purchase is to understand how many, not how much.
+![Multivariate Analysis](https://user-images.githubusercontent.com/73730336/156495391-c2b2f56d-3f97-4373-84c0-d910ab9d0565.PNG)
